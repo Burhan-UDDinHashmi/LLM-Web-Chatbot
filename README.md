@@ -75,3 +75,17 @@ pip install -r requirements.txt
 ## Burhan UD Din Hashmi 
 📍 Punjab University (PU) 🎓
 🔗 https://www.linkedin.com/in/burhan-ud-din-hashmi-641176207/
+
+## 📚 References
+
+Google Gemini API Documentation
+https://ai.google.dev/
+
+Streamlit Documentation
+https://streamlit.io/
+
+Python Documentation
+https://docs.python.org/
+
+Google Search Python Library
+https://pypi.org/project/googlesearch-python/
