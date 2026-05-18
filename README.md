@@ -72,8 +72,9 @@ pip install -r requirements.txt
 ```
 
 🧑‍💻 Author 
-## Burhan UD Din Hashmi 
-📍 Punjab University (PU) 🎓
+## Burhan UD Din Hashmi
+AI/ML Enginner 
+📍 University of Punjab(PU) (BSIT 21-25) 🎓
 🔗 https://www.linkedin.com/in/burhan-ud-din-hashmi-641176207/
 
 ## 📚 References
