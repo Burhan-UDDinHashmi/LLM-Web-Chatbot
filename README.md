@@ -71,5 +71,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-🧑‍💻 Author Burhan Ud Din Hashmi 📍 Punjab University (PU) 🎓
+🧑‍💻 Author 
+## Burhan UD Din Hashmi 
+📍 Punjab University (PU) 🎓
 🔗 https://www.linkedin.com/in/burhan-ud-din-hashmi-641176207/
